@@ -1,8 +1,3 @@
-const word = [
-    { text: 'Ideas', imgPath: '/image/ideas.svg' },
-    { text: 'Concepts', imgPath: '/image/concepts.svg' }
-]
-
 const Hero = () => {
     return (
         //This will help build a 3d background element
